@@ -8,4 +8,5 @@ O objetivo do repositório é só armazenar dados históricos e facilitar o down
 
 This repository contains all ENet Super modpack versions (since v1.40) and ENet Lite Modpack (since v1.01).
 The objective of this is basically store historic data and make downloading easier.
-_if this translation wasn't so good, send a pull request if you want to contribute for my english. r/engrish lol_
+
+_If this translation wasn't so good, send a pull request if you want to contribute for my english. r/engrish lol_
