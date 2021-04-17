@@ -1,3 +1,9 @@
+# ⚠ Deprecation Notice
+As of January 9, 2021, ENet has been shutdown due to unknown physical issues at the server location.
+
+You can still play the modpack, of course, but it's not going to receive updates anymore.
+
+
 # ENet Modpacks
 **Portuguese (Português):**
 
@@ -6,7 +12,7 @@ O objetivo do repositório é só armazenar dados históricos e facilitar o down
 
 Os downloads do modpack podem ser encontradas na página de [releases](https://github.com/FiveManiaGit/enet-modpacks/releases).
 
-Também, entre no nosso servidor do Discord: https://discord.gg/5s9BX2Q
+Também, entre no nosso servidor do Discord: ~~https://discord.gg/5s9BX2Q~~ removido
 
 **English (Inglês):**
 
@@ -15,6 +21,6 @@ The objective of this is basically store historic data and make downloading easi
 
 The downloads can be found on the [releases](https://github.com/FiveManiaGit/enet-modpacks/releases) page.
 
-Also, join us on Discord: https://discord.gg/5s9BX2Q
+Also, join us on Discord: ~~https://discord.gg/5s9BX2Q~~ deleted
 
 _If this translation wasn't so good, send a pull request if you want to contribute for my english. r/engrish lol_
